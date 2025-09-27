@@ -63,7 +63,7 @@ With experience across the entire development stack, I specialize in building re
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 ![Momin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momin-001&show_icons=true&theme=radical&count_private=true)
 
