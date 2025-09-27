@@ -78,6 +78,35 @@ With experience across the entire development stack, I specialize in building re
 
 ## 📈 Recent Activity
 
+### 🔥 Recent Project: Open House Buddy
+
+**🏠 Open House Buddy** | Real Estate Management Platform | *Completed: Recent*
+
+**Tech Stack:** 
+- 📱 **Mobile:** React Native, Expo
+- 🌐 **Web:** Next.js (Full-Stack)
+- 🗄️ **Database:** PostgreSQL + Drizzle ORM
+- ☁️ **Cloud:** AWS
+
+**Key Features:**
+- 🏢 House listings management system
+- 📧 Automated email notifications  
+- 🔍 QR code scanner for property access
+- 📊 Analytics dashboard with metrics
+- 👥 Leads management and tracking
+
+**Technical Highlights:**
+- Full-stack Next.js implementation
+- Type-safe database operations with Drizzle
+- Cross-platform mobile app with React Native
+- AWS cloud deployment and scaling
+
+**Impact:** Streamlined real estate operations with digital tools and automated workflows.
+
+---
+
+*"Simplifying real estate management through technology"*
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -90,7 +119,6 @@ With experience across the entire development stack, I specialize in building re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/momin-mukhtar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_momin_001_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mominmukhtar101@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://yourportfolio.com) <!-- Replace with your actual portfolio -->
 
 </div>
 
