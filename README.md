@@ -22,7 +22,6 @@ With experience across the entire development stack, I specialize in building re
 - 💬 **Ask me about:** React, Django, NextJS, React Native Expo, Node.js
 - 📫 **How to reach me:** mominmukhtar101@gmail.com
 - 🌱 **Currently learning:** Advanced cloud architectures and microservices
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
 
 <br />
 
