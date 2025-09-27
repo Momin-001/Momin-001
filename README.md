@@ -63,13 +63,11 @@ With experience across the entire development stack, I specialize in building re
 
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
 
-![Momin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momin-001&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momin-001&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=momin-001&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momin-001&show_icons=true&theme=radical&count_private=true)](https://github.com/momin-001)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momin-001&layout=compact&theme=radical)](https://github.com/momin-001)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=momin-001&theme=radical)](https://github.com/momin-001)
 
 </div>
 
